@@ -1,4 +1,4 @@
-console.log('client JS file')
+// console.log('client JS file')
 
 const weatherForm = document.querySelector('form');
 const search = document.querySelector('input')
